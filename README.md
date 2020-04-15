@@ -4,9 +4,9 @@ The goal of this task is to experiment with template matching techniques, i.e., 
 Original Image:
 
 
-![Original Picture](proj1-task2.jpg)
+![Original Picture](TemplateMatching/data/proj1-task2.jpg)
 
 Template:
 
 
-![Original Picture](proj1-task2-template.jpg)
+![Original Picture](TemplateMatching/data/proj1-task2-template.jpg)
