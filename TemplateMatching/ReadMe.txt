@@ -1,0 +1,1 @@
+CODE of Template Matching is in task2.py
